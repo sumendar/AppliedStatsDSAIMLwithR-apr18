@@ -11,11 +11,11 @@ https://goo.gl/ojFWYR
   
   
 # Directory Explorer:      
-topic/  
-├── data/  
-├── plots/  
-├── docs/  
-├── exercises/  
-├── script.ipynb    
-└── slides.ipynb      
+Topic/  
+├── :open_file_folder:data/  
+├── :open_file_folder:plots/  
+├── :open_file_folder:docs/  
+├── :open_file_folder:exercises/  
+├── :closed_book:script.ipynb    
+└── :closed_book:slides.ipynb      
 
