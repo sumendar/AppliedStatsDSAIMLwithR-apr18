@@ -19,3 +19,4 @@ Topic/
 ├── :closed_book:script.ipynb    
 └── :closed_book:slides.ipynb      
 
+http://g.recordit.co/VfsXryQ8A2.gif
