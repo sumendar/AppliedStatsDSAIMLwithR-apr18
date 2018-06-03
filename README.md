@@ -19,11 +19,6 @@ Topic/
 ├── :closed_book:script.ipynb    
 └── :closed_book:slides.ipynb      
 
-
-![Alt Text](http://g.recordit.co/VfsXryQ8A2.gif)
-
-
+# How to Work? 
 ![Imgur](https://i.imgur.com/OJm8N2k.gif)
-![Imgur](https://i.imgur.com/OJm8N2k.gifv)
-<blockquote class="imgur-embed-pub" lang="en" data-id="OJm8N2k"><a href="//imgur.com/OJm8N2k">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
