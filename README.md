@@ -20,3 +20,5 @@ Topic/
 └── :closed_book:slides.ipynb      
 
 
+![Alt Text](http://g.recordit.co/VfsXryQ8A2.gif)
+
