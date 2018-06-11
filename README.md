@@ -19,3 +19,6 @@ Topic/
 ├── :closed_book:script.ipynb    
 └── :closed_book:slides.ipynb      
 
+# How to Work? 
+![Imgur](https://i.imgur.com/OJm8N2k.gif)
+
