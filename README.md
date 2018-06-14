@@ -21,4 +21,9 @@ Topic/
 
 # How to Work? 
 ![Imgur](https://i.imgur.com/OJm8N2k.gif)
+  
+<sub><sub>Disclaimer: The images, code snippets, and excerpt screenshots presented in slides.ipynb files were
+obviously not invented but collected, borrowed and copied from a large amount
+of sources. These sources include similar or a piece of chunk found on the internet,
+books, blog posts, YouTube videos and other online tutorials - see the credit/references for details</sub></sub>
 
