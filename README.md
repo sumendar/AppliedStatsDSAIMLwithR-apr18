@@ -21,6 +21,6 @@ Topic/
 
 # How to Work? 
 ![scrgif](https://github.com/sumendar/DSwRandP-apr18/blob/master/00-InstallationEnvironmentSetup/plots/F24L2CKGtv.gif) 
-<img src="https://github.com/sumendar/DSwRandP-apr18/blob/master/00-InstallationEnvironmentSetup/plots/F24L2CKGtv.gif" width="700" height="550">  
+<img src="https://github.com/sumendar/DSwRandP-apr18/blob/master/00-InstallationEnvironmentSetup/plots/F24L2CKGtv.gif" width="800" height="550">  
 
 <sub><span style="color:red; font-family:Comic Sans MS">**Disclaimer:**</span> The images, code snippets, and excerpt screenshots presented here in the repository were obviously not invented but collected, borrowed and copied from a large amount of sources. These sources include similar but shorter notes found on the internet, books, blog posts, YouTube videos and other online tutorials - see the source/credit/references for details</sub>
