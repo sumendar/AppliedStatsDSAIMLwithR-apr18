@@ -2,7 +2,7 @@
 
 https://goo.gl/ojFWYR
 
-# Download repository/directory (paste url link)         
+# Download directory/folder (paste link address)         
 :arrow_down:https://goo.gl/QkH3sC
 
 # Gitter chat:   
