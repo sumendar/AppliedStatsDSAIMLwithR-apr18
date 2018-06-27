@@ -2,7 +2,7 @@
 
 https://goo.gl/ojFWYR
 
-# Download repository/directory (paste url link)         
+# Download directory/folder (paste link address)         
 :arrow_down:https://goo.gl/QkH3sC
 
 # Gitter chat:   
@@ -20,6 +20,6 @@ Topic/
 └── :closed_book:slides.ipynb      
 
 # How to Work? 
-![Imgur](https://i.imgur.com/OJm8N2k.gif)
+<img src="https://github.com/sumendar/DSwRandP-apr18/blob/master/00-InstallationEnvironmentSetup/plots/F24L2CKGtv.gif" width="850" height="550">  
   
-<sub><span style="color:red; font-family:Comic Sans MS">**Disclaimer:**</span> The images, code snippets, and excerpt screenshots presented here in the repository were obviously not invented but collected, borrowed and copied from a large amount of sources. These sources include similar but shorter notes found on the internet, books, blog posts, YouTube videos and other online tutorials - see the credit/references for details</sub>
+<sub><span style="color:red; font-family:Comic Sans MS">**Disclaimer:**</span> The images, code snippets, and excerpt screenshots presented here in the repository were obviously not invented but collected, borrowed and copied from a large amount of sources. These sources include similar but shorter notes found on the internet, books, blog posts, YouTube videos and other online tutorials - see the source/credit/references for details</sub>
