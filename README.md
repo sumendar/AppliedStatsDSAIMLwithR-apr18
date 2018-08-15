@@ -16,7 +16,7 @@ Topic/
 ├── :open_file_folder:scripts/    
 ├── :open_file_folder:plots/  
 ├── :open_file_folder:docs/  
-├── :open_file_folder:exercises/ 
+├── :open_file_folder:exercises/   
 └── :closed_book:slides.ipynb      
 
 # How to Work? 
