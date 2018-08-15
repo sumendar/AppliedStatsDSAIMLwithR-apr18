@@ -17,8 +17,8 @@ Topic/
 ├── :open_file_folder:plots/  
 ├── :open_file_folder:docs/  
 ├── :open_file_folder:exercises/   
-└── :closed_book:slides.ipynb      
-
+└── :closed_book:slides.ipynb        
+  
 # How to Work? 
 <img src="https://github.com/sumendar/DSwRandP-apr18/blob/master/00-InstallationEnvironmentSetup/plots/F24L2CKGtv.gif" width="850" height="550">  
   
