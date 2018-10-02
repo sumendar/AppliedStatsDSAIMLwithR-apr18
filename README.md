@@ -11,7 +11,7 @@ https://goo.gl/ojFWYR
   
   
 # Directory Explorer:      
-Topic/  
+:open_file_folder:Topic/  
 ├── :open_file_folder:data/  
 ├── :open_file_folder:scripts/    
 ├── :open_file_folder:plots/  
