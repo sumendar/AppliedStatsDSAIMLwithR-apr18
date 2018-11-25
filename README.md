@@ -2,13 +2,12 @@
 
 https://bit.ly/2EDnade
 
-# Gitter chat:   
-
-[![Join the chat at https://gitter.im/DSwRandP-apr18/Lobby](https://badges.gitter.im/DSwRandP-apr18/Lobby.svg)](https://gitter.im/DSwRandP-apr18/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 # Microsoft Azure Notebooks
 [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/sumendar/libraries/FoundationOfStatsDSAIMLwithR)
 
+# Gitter chat:   
+
+[![Join the chat at https://gitter.im/DSwRandP-apr18/Lobby](https://badges.gitter.im/DSwRandP-apr18/Lobby.svg)](https://gitter.im/DSwRandP-apr18/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # Download directory/folder (paste link address)         
 :arrow_down:https://goo.gl/QkH3sC
