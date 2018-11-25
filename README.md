@@ -1,6 +1,6 @@
 # Notebook Stack Viewer  
-(nbviewer)  
-https://bit.ly/2EDnade
+ 
+nbviewer: https://bit.ly/2EDnade
 
 # Microsoft Azure Notebooks
 [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/sumendar/libraries/FoundationOfStatsDSAIMLwithR)
