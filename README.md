@@ -6,7 +6,7 @@ https://bit.ly/2EDnade
 
 [![Join the chat at https://gitter.im/DSwRandP-apr18/Lobby](https://badges.gitter.im/DSwRandP-apr18/Lobby.svg)](https://gitter.im/DSwRandP-apr18/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-#Microsoft Azure Notebooks
+# Microsoft Azure Notebooks
 [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/sumendar/libraries/FoundationOfStatsDSAIMLwithR)
 
 
