@@ -17,9 +17,8 @@ nbviewer: https://bit.ly/2EDnade
 :open_file_folder:Topic/  
 ├── :open_file_folder:data/    
 ├── :open_file_folder:docs/  
-├── :open_file_folder:files/  
 ├── :open_file_folder:plots/   
-└── :closed_book:scriptSlides.ipynb        
+└── :closed_book:Notebook.ipynb        
   
     
 # How to Work? 
