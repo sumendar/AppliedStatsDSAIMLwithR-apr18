@@ -24,6 +24,6 @@ nbviewer: https://bit.ly/2EDnade
 # How to Work? 
 <img src="https://github.com/sumendar/AppliedStatsDSMLAIwithR-apr18/blob/master/00-InstallationAndEnvironmentSetup/plots/F24L2CKGtv.gif" width="850" height="550">  
   
-<sub><span style="color:red; font-family:Comic Sans MS">**DISCLAIMER:**</span> The images, code snippets, excerpts and screenshots presented in the repository were not invented but collected, borrowed and copied from a large amount of sources. These sources include similar and found on the internet, books, blog posts, YouTube videos and other online tutorials - see the source, credit or references in the notebooks for more details</sub>  
+<sub><span style="color:red; font-family:Comic Sans MS">**DISCLAIMER:**</span> The images, code snippets, excerpts and screenshots presented in this repository were not invented but collected, copied and borrowed from large amount of sources by inspiring from them. These sources includes which are found on the internet, books, blog posts, YouTube videos and other online tutorials - see the source, credit or references in the notebooks for more details</sub>  
 <sub><span style="color:red; font-family:Comic Sans MS">**Note:**</span> This repository will continuously upgrade and refined to meet various knowledge levels.</sub>    
  
