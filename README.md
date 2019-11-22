@@ -1,15 +1,21 @@
-# Notebook Stack Viewer  
- 
-nbviewer: https://bit.ly/2EDnade
+# Notebook Viewer:  
+(Notebooks as static web pages)  
+[![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/github/sumendar/AppliedStatsDSMLAIwithR-apr18/tree/master/)
+
 
 # Microsoft Azure Notebooks
+(Cloud hosted notebooks)  
 [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/sumendar/libraries/FoundationOfStatsDSAIMLwithR)
 
-# Gitter chat:   
-
+# RStudio Cloud: 
+[![R studio](http://mybinder.org/badge_logo.svg)](https://rstudio.cloud/)
+    
+# Gitter chat: 
+(for quries)  
 [![Join the chat at https://gitter.im/DSwRandP-apr18/Lobby](https://badges.gitter.im/DSwRandP-apr18/Lobby.svg)](https://gitter.im/DSwRandP-apr18/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-# Download directory/folder (paste link address)         
+# Download directory/folder (paste link address)    
+(*right click below link and paste the url path of the directory you wish to download*)  
 :arrow_down:https://goo.gl/QkH3sC
   
   
@@ -24,6 +30,6 @@ nbviewer: https://bit.ly/2EDnade
 # How to Work? 
 <img src="https://github.com/sumendar/AppliedStatsDSMLAIwithR-apr18/blob/master/00-InstallationAndEnvironmentSetup/plots/F24L2CKGtv.gif" width="850" height="550">  
   
-<sub><span style="color:red; font-family:Comic Sans MS">**DISCLAIMER:**</span> The images, code snippets, excerpts and screenshots presented in this repository were not invented but collected, copied and borrowed from large amount of sources by inspiring from them. These sources includes which are found on the internet, books, blog posts, YouTube videos and other online tutorials - see the source, credit or references in the notebooks for more details</sub>  
-<sub><span style="color:red; font-family:Comic Sans MS">**Note:**</span> This repository will continuously upgrade and refined to meet various knowledge levels.</sub>    
- 
+<sub><span style="color:red; font-family:Comic Sans MS">**DISCLAIMER:**</span> The images, code snippets, excerpts and screenshots...etc presented in this repository were neither  invented nor plagiarized but collected, copied and borrowed from large amount of sources which includes internet, books, blog posts, YouTube videos and other online tutorials - see the source, credit or references in the notebooks for more details</sub>  
+<sub><span style="color:red; font-family:Comic Sans MS">  
+**Note:**</span> This repository will be keep on upgrading and new contents will be added constantly.</sub> 
