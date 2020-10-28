@@ -1,4 +1,5 @@
-*.R linguist-detectable=true
+*.ipynb linguist-language=R
+*.ipynb linguist-detectable=true
 *.js linguist-detectable=false
 *.html linguist-detectable=false 
 *.css linguist-detectable=false
