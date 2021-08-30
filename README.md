@@ -2,11 +2,6 @@
 (Notebooks as static web pages)  
 [![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/github/sumendar/AppliedStatsDSMLAIwithR-apr18/tree/master/)
 
-
-# Microsoft Azure Notebooks
-(Cloud hosted notebooks)  
-[![Azure Notebooks](https://swimburger.net/media/fbqnp2ie/azure.svg)](https://notebooks.azure.com/sumendar/libraries/FoundationOfStatsDSAIMLwithR)
-
 # RStudio Cloud: 
 [![R studio](http://mybinder.org/badge_logo.svg)](https://rstudio.cloud/)
     
