@@ -5,7 +5,7 @@
 
 # Microsoft Azure Notebooks
 (Cloud hosted notebooks)  
-[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/sumendar/libraries/FoundationOfStatsDSAIMLwithR)
+[![Azure Notebooks](https://swimburger.net/media/fbqnp2ie/azure.svg)](https://notebooks.azure.com/sumendar/libraries/FoundationOfStatsDSAIMLwithR)
 
 # RStudio Cloud: 
 [![R studio](http://mybinder.org/badge_logo.svg)](https://rstudio.cloud/)
