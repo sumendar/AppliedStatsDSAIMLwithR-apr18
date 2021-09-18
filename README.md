@@ -1,12 +1,12 @@
 # Notebook Viewer:  
-(Notebooks as static web pages)  
+(notebooks as static web page)  
 [![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/github/sumendar/AppliedStatsDSMLAIwithR-apr18/tree/master/)
 
 # RStudio Cloud: 
 [![R studio](http://mybinder.org/badge_logo.svg)](https://rstudio.cloud/)
     
 # Gitter chat: 
-(for quries)  
+(communicate with any queries)  
 [![Join the chat at https://gitter.im/DSwRandP-apr18/Lobby](https://badges.gitter.im/DSwRandP-apr18/Lobby.svg)](https://gitter.im/DSwRandP-apr18/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # Download directory/folder (paste link address)    
