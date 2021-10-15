@@ -1,5 +1,5 @@
 *.r linguist-language=R
-*.ipynb linguist-language="Jupyter Notebook"
+*.ipynb linguist-language=R
 *.ipynb linguist-detectable=true
 *.js linguist-detectable=false
 *.html linguist-detectable=false 
